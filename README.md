@@ -17,18 +17,28 @@ A user-friendly Todo App built with React. Add, edit, delete, and track your tas
 ## 🚀 How to Run
 
 1. Clone the repo:
+
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/luaiadhmani/todo-app.git
    ```
 
-Install dependencies:
-npm install
+2. Install dependencies:
+   npm install
 
-Start the app:
-npm start
+3. Start the app:
+   npm start
 
 🛠 Tech Stack:
-React
-JavaScript
-CSS
-LocalStorage
+
+React: Front-end framework
+JavaScript: Programming language
+CSS: Styling
+LocalStorage: To persist tasks across sessions
+
+🖼️ Screenshots:
+
+![todo-app-1](./screenshots/todo-app-1.png)
+
+![todo-app-2](./screenshots/todo-app-2.png)
+
+![todo-app-3](./screenshots/todo-app-3.png)
